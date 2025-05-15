@@ -7,3 +7,5 @@
 
 ---
 ### Due Class 3:
+
+![coursera completion page](/class_1/coursera_complete.png)
