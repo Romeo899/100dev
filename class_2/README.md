@@ -12,4 +12,4 @@
 
 ![BBC Image HW](/class_2/bbc-image.png)
 
-[my attempt](/class_2/BBC_website.html)
+[HTML only](/class_2/BBC_website.html)
