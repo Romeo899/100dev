@@ -9,3 +9,7 @@
 
 ---
 ### Due Class 4:
+
+![BBC Image HW](/class_2/bbc-image.png)
+
+[my attempt](/class_2/BBC_website.html)
