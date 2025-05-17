@@ -13,3 +13,11 @@
 ![BBC Image HW](/class_2/bbc-image.png)
 
 [HTML only](/class_2/BBC_website.html)
+
+---
+
+#### Shay Howe Notes:
+
+1. [Lesson 1: Building your first webpage](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
+2. [Lesson 2: Getting to know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
+- [Copy Paste Character](https://copypastecharacter.com/)
