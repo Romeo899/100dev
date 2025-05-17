@@ -21,3 +21,4 @@
 1. [Lesson 1: Building your first webpage](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
 2. [Lesson 2: Getting to know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
 - [Copy Paste Character](https://copypastecharacter.com/)
+3. [Lesson 3: Getting to know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
