@@ -18,7 +18,8 @@
 
 #### Shay Howe Notes:
 
-1. [Lesson 1: Building your first webpage](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
-2. [Lesson 2: Getting to know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
+1. [x][Lesson 1: Building your first webpage](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
+2. [x][Lesson 2: Getting to know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
 - [Copy Paste Character](https://copypastecharacter.com/)
-3. [Lesson 3: Getting to know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
+3. [x][Lesson 3: Getting to know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
+4. [x][Lesson 4: Opening the Box Model](https://learn.shayhowe.com/html-css/opening-the-box-model/)
