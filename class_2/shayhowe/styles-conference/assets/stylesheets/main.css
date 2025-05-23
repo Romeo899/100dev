@@ -67,3 +67,46 @@ Grid
 	padding: 0 30px;
 	margin: 0 auto;
 }
+
+/* 
+=====================================
+
+Typography
+
+======================
+*/
+
+h1,h2,h3,h4,h5, p {
+	margin-bottom: 20px;
+}
+
+/* 
+=====================================
+
+Buttons
+
+======================
+*/
+
+.btn {
+	display: inline-block;
+	border-radius: 5px;
+	margin: 0;
+}
+
+.btn-alt {
+	border: 1px solid #dfe2e5;
+	padding: 10px 30px;
+}
+
+/* 
+=====================================
+
+Home
+
+======================
+*/
+
+.hero {
+	padding: 22px 80px 66px 80px;
+}
