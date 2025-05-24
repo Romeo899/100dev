@@ -23,3 +23,6 @@
 - [Copy Paste Character](https://copypastecharacter.com/)
 3. [x][Lesson 3: Getting to know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
 4. [x][Lesson 4: Opening the Box Model](https://learn.shayhowe.com/html-css/opening-the-box-model/)
+    - Centered the home page and created a button.
+5. [x][Lesson 5: Positioning Content](https://learn.shayhowe.com/html-css/positioning-content/)
+
