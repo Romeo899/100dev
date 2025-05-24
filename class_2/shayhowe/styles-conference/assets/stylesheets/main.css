@@ -111,6 +111,17 @@ Home
 	padding: 22px 80px 66px 80px;
 }
 
+.hero {
+  line-height: 44px;
+  padding: 22px 80px 66px 80px;
+}
+.hero h2 {
+  font-size: 36px;
+}
+.hero p {
+  font-size: 24px;
+}
+
 /* 
 =====================================
 
@@ -158,6 +169,15 @@ Primary header
   padding: 40px 0 22px 0;
 }
 
+.tagline {
+	margin: 66px 0 22px 0;
+}
+
+.primary-nav {
+	font-size: 14px;
+  	font-weight: 400;
+}
+
 /* 
 =====================================
 
@@ -175,6 +195,17 @@ Primary footer
 	padding-bottom: 44px;
   	padding-top: 44px;
 
+}
+
+.primary-footer {
+  color: #648880;
+  font-size: 14px;
+  padding-bottom: 44px;
+  padding-top: 44px;
+}
+.primary-footer small {
+  float: left;
+  font-weight: 400;
 }
 
 .col-1-3 {
@@ -207,6 +238,8 @@ Primary footer
   padding-left: 30px;
   padding-right: 30px;
 }
+
+
 
 /*
   ========================================
@@ -250,12 +283,6 @@ cite, em {
   font-style: italic;
 }
 
-/*
-  ========================================
-  Links
-  ========================================
-*/
-
 a:hover {
   color: #a9b2b9;
 }
@@ -263,3 +290,25 @@ a {
   color: #648880;
 }
 
+.teaser a:hover h3 {
+	color: #a9b2b9 !important;
+	
+}
+
+/*
+  ========================================
+  Links
+  ========================================
+*/
+
+
+a {
+  color: #648880;
+  text-decoration: none;
+}
+a:hover {
+  color: #a9b2b9;
+}
+p a {
+  border-bottom: 1px solid #dfe2e5;
+}
