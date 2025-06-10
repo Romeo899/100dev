@@ -19,11 +19,13 @@
 ## Khan academy preview
 ![Khan academy preview](/class_3/khan-academy.png)
 
-### khan Academy HTML
+### Khan Academy HTML
 
+![Khan academy HTML](/class_3/khan_academy.html)
 ---
 
 ## Tech Crunch preview:
 ![Tech Crunch preview](/class_3/techcrunch.png)
 
 ### Tech Crunch HTML
+![Tech Crunch HTML](/class_3/tech_crunch.html)
