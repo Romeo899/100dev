@@ -25,4 +25,10 @@
 4. [x][Lesson 4: Opening the Box Model](https://learn.shayhowe.com/html-css/opening-the-box-model/)
     - Centered the home page and created a button.
 5. [x][Lesson 5: Positioning Content](https://learn.shayhowe.com/html-css/positioning-content/)
-
+6. [x][Lesson 6: Working with Typography](https://learn.shayhowe.com/html-css/working-with-typography/)
+7. [x][Lesson 7: Setting Background & Gradients](https://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/)
+8. [x][Lesson 8: Creating Lists](https://learn.shayhowe.com/html-css/creating-lists/)
+9. [x][Lesson 9: Adding Media](https://learn.shayhowe.com/html-css/adding-media/)
+10. [x][Lesson 10: Building Forms](https://learn.shayhowe.com/html-css/building-forms/)
+11. [x][Lesson 11: Organizing Data with Tables](https://learn.shayhowe.com/html-css/organizing-data-with-tables/)
+12. [x][Lesson 12: Writing your best code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
