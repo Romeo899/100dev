@@ -14,3 +14,16 @@
 
 ---
 ### Due Class 5:
+
+---
+## Khan academy preview
+![Khan academy preview](/class_3/khan-academy.png)
+
+### khan Academy HTML
+
+---
+
+## Tech Crunch preview:
+![Tech Crunch preview](/class_3/techcrunch.png)
+
+### Tech Crunch HTML
