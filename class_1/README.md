@@ -9,4 +9,6 @@
 ---
 ### Due Class 3:
 
+- [imgbb Link](https://ibb.co/WWtSSHQZ)
+
 ![coursera completion page](/class_1/coursera_complete.png)
