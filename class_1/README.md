@@ -10,5 +10,6 @@
 ### Due Class 3:
 
 - [imgbb Link](https://ibb.co/WWtSSHQZ)
+### Submitted 🟩👍10.06.2025
 
 ![coursera completion page](/class_1/coursera_complete.png)
