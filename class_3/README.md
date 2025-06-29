@@ -14,6 +14,7 @@
 
 ---
 ### Due Class 5:
+* came back after a little hiatus.
 
 ---
 ## Khan academy preview
