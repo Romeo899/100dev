@@ -13,7 +13,9 @@
 #### Submitted 🟩👍10.06.2025
 
 ---
-### Due Class 5:
+### Due Class 5: 🟩👍29.06.2025
+#### [Submit Link](https://docs.google.com/forms/d/e/1FAIpQLSfs1bTCIfcJymT4OQ-KwduSjoSKytyjRb7OHXLMXlpgnAf3yg/viewform)
+
 * came back after a little hiatus.
 
 ---
@@ -23,6 +25,7 @@
 ### Khan Academy HTML
 
 ![Khan academy HTML](/class_3/khan_academy.html)
+![Khan Academy HTML Codepen Link](https://codepen.io/IROMEO/pen/emNXbLg?editors=1000)
 ---
 
 ## Tech Crunch preview:
@@ -30,3 +33,4 @@
 
 ### Tech Crunch HTML
 ![Tech Crunch HTML](/class_3/tech_crunch.html)
+![Tech Crunch HTML Codepen Link](https://codepen.io/IROMEO/pen/LEVaMBd?editors=1000)
