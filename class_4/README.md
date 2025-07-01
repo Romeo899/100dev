@@ -9,7 +9,8 @@
 5. [x]Do five minute typing test    
 ---
 ### Due Class 6:
-
+### Submitted 🟩👍01.07.2025
+- [Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeWEisam4CfpvyIteGM8URFErfP69ZC3UcM2UbMLFBbsZYHDA/viewform)
 
 ### Previews:
 
