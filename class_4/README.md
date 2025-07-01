@@ -1,4 +1,4 @@
-# Class x: 
+# Class 4: 
 ## Task List:
 ##### link: 
 ***Homework prefixed with an asterisk are mandatory. The rest are optional***
@@ -9,3 +9,18 @@
 5. [x]Do five minute typing test    
 ---
 ### Due Class 6:
+
+
+### Previews:
+
+#### Simple Site Lab:
+
+![Simple Site Lab](./simple_site_lab.html)
+
+
+#### Layout 1:
+
+![]
+#### Layout 2:
+
+#### Layout 3:
