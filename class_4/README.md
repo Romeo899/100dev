@@ -15,7 +15,7 @@
 
 #### Simple Site Lab:
 
-![Simple Site Lab](./simple_site_lab.html)
+[Simple Site Lab](./simple_site_lab.html)
 
 
 #### Layout 1:
