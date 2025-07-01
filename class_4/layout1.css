@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+.container {
+    height: 100vh;
+}
+
 .border {
     border: 1px solid #000;
 }
@@ -17,8 +21,9 @@ body {
     margin: 10px;
 }
 
-nav {
-    height: 100px;
+nav,footer {
+    background-color: #800000;
+    height: 15%;
 }
 
 .three, .two {
@@ -28,16 +33,16 @@ nav {
 .three section {
     float: left;
     width: 33.333%;
-    height: 100px;
+    height: 200px;
+    background-color: #982B1C;
 }
 
 
 .two aside {
     float: left;
     width: 50%;
-    height: 100px
+    height: 200px;
+    background-color: #DAD4B5;
 }
 
-footer {
-    height: 100px;
-}
+
