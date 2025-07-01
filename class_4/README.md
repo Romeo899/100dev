@@ -17,7 +17,7 @@
 
 [Simple Site Lab](https://codepen.io/IROMEO/pen/dPoLwgd)
 
-[Simple Site Lab My attempt](.)
+[Simple Site Lab My attempt](./images/Simple_site_lab_attempt.png)
 #### Layout 1:
 
 ![]
