@@ -6,4 +6,15 @@
 2. [x][Read Shay Howe: Advanced (all 10)](https://learn.shayhowe.com/advanced-html-css/)    
 
 ---
-### Due Class x:
+### Due Class 8:
+
+
+### Previews:
+
+#### 15 Minutes of Pain
+
+
+[codepen](https://codepen.io/IROMEO/pen/NPqmoVp)
+
+![attempt](./images/15_minutes_of_pain_attempt.png)
+![reference](./images/15-min-pain.png)
