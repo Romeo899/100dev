@@ -18,3 +18,9 @@
 
 ![attempt](./images/15_minutes_of_pain_attempt.png)
 ![reference](./images/15-min-pain.png)
+
+
+#### Responsive 
+
+![tablet](./images/tablet_mode.png)
+![phone](./images/phone_mode.png)

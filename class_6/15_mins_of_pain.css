@@ -31,3 +31,28 @@ nav, footer {
     height: 200px;
     background-color: #EAA64D;
 }
+
+/* responsive */
+
+@media (max-width: 800px) {
+    .three section {
+        width: 50%;
+        background-color: red;
+    }
+
+    .third {
+        display: none;
+    }
+}
+
+@media (max-width: 600px) {
+    .three section {
+        width: 100%;
+        height: 300px;
+        background-color: green;
+    }
+
+    .third,.second {
+        display: none;
+    }
+}
