@@ -1,0 +1,43 @@
+* {
+    background-color: rgb(217, 217, 217);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.border {
+    border: 1px solid #000;
+}
+
+html, body {
+    border: 0;
+}
+
+body {
+    margin: 10px;
+}
+
+nav {
+    height: 100px;
+}
+
+.three, .two {
+    overflow: auto;
+}
+
+.three section {
+    float: left;
+    width: 33.333%;
+    height: 100px;
+}
+
+
+.two aside {
+    float: left;
+    width: 50%;
+    height: 100px
+}
+
+footer {
+    height: 100px;
+}
