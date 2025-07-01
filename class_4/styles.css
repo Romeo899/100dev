@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Tinos:ital@1&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+}
+
+body {
+    background-color: rgb(135, 206, 235);
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+/* Container styling */
+
+.container {
+    box-sizing: border-box;
+    border: 5px solid green;
+    height: 90vh;
+    margin: 50px 150px;
+    padding: 50px 150px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Tinos', sans-serif;
+    font-size: 32px;
+}
