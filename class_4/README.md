@@ -15,12 +15,26 @@
 
 #### Simple Site Lab:
 
-[Simple Site Lab](https://codepen.io/IROMEO/pen/dPoLwgd)
+[Simple Site Lab codepen](https://codepen.io/IROMEO/pen/dPoLwgd)
 
 ![Simple Site Lab My attempt](./images/Simple_site_lab_attempt.png)
+![reference](./images/simple-site-lab.png)
 #### Layout 1:
 
-![]
+
+[Layout 1 codepen](https://codepen.io/IROMEO/pen/azOxPxy)
+
+![layout 1 attempt](./images/layout_1_attempt.png)
+![reference](./images/layout1.png)
 #### Layout 2:
 
+[Layout 2 codepen](https://codepen.io/IROMEO/full/ogXOJRq)
+
+![Layout 2 attempt](./images/layout_2_attempt.png)
+![reference](./images/layout2.png)
 #### Layout 3:
+
+[Layout 3 codepen](https://codepen.io/IROMEO/full/myJgaZQ)
+
+![Layout 3 attempt](./images/layout_3_attempt.png)
+![reference](./images/layout3.png)
