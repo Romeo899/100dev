@@ -24,3 +24,6 @@
 
 ![tablet](./images/tablet_mode.png)
 ![phone](./images/phone_mode.png)
+
+### Shay Howe Advanced Notes: 
+
