@@ -30,3 +30,4 @@
 1) Lesson 1: Performance & Organization 🟩 02.07.2025
 2) lesson 2: Detailed Positioning 🟩 02.07.2025
 3) Lesson 3: Complex Selectors 🟩 03.07.2025
+4) Lesson 4: Responsive Web Design 
