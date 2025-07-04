@@ -1,0 +1,46 @@
+/* Floats only css - for fast draft. */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+/* Body Styles */
+
+body  {
+    width: 100vw;
+}
+
+/* Nav Styles */
+
+nav {
+    background-color: #000;
+    color: #fff;
+}
+
+.center {
+    margin: 0 20px 0 30%;
+    width: 100%;
+}
+
+nav ul > li{
+    float: left;
+    padding-left: 5px;
+    padding-right: 5px;
+    white-space: nowrap;
+}
+
+/* White Banner */
+
+.whiteBanner {
+    width: 800px;
+    overflow: hidden;
+}
+
+.whiteBanner > * {
+    float: left;
+    width: 50%;
+
+}
+
