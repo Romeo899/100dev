@@ -27,7 +27,13 @@
 
 ### Shay Howe Advanced Notes: 
 
-1) Lesson 1: Performance & Organization 🟩 02.07.2025
-2) lesson 2: Detailed Positioning 🟩 02.07.2025
-3) Lesson 3: Complex Selectors 🟩 03.07.2025
-4) Lesson 4: Responsive Web Design 
+1) [Lesson 1: Performance & Organization](https://learn.shayhowe.com/advanced-html-css/performance-organization/) 🟩 02.07.2025
+2) [Lesson 2: Detailed Positioning](https://learn.shayhowe.com/advanced-html-css/detailed-css-positioning/) 🟩 02.07.2025
+3) [Lesson 3: Complex Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/) 🟩 03.07.2025
+4) [Lesson 4: Responsive Web Design](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/) 🟩 03.07.2025
+5) [Lesson 5: Preprocessors](https://learn.shayhowe.com/advanced-html-css/preprocessors/) 🟩 03.07.2025
+6) [Lesson 6: jQuery](https://learn.shayhowe.com/advanced-html-css/jquery/) 🟧~ 04.07.2025
+7) [Lesson 7: Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/) 🟧~ 04.07.2025
+8) [Lesson 8: Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/) 🟧~ 04.07.2025
+9) [Lesson 9: Feature Support & Polyfills](https://learn.shayhowe.com/advanced-html-css/feature-support-polyfills/) 🟧~ 04.07.2025
+10) [Lesson 10: Extending Semantics & Accessibility](https://learn.shayhowe.com/advanced-html-css/semantics-accessibility/) 🟧~ 04.07.2025
