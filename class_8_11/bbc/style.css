@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: 0;
+    box-sizing: border-box;
 }
 
 /* Body Styles */
@@ -12,16 +12,40 @@ body  {
     width: 100vw;
 }
 
+nav li  {
+    list-style: none;
+}
+
+/* general styles */
+
+article, section, aside {
+    padding: 1em;
+    box-sizing: border-box;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+    background-color: white;
+}
+
 /* Nav Styles */
 
 nav {
     background-color: #000;
     color: #fff;
+    width: 100%;
+    height: 100px;
+    align-content: center;
 }
 
 .center {
-    margin: 0 20px 0 30%;
+    margin: 0 20px 0 250px;
     width: 100%;
+}
+
+nav img, nav a {
+    float: left;
 }
 
 nav ul > li{
@@ -33,14 +57,96 @@ nav ul > li{
 
 /* White Banner */
 
-.whiteBanner {
-    width: 800px;
+.whiteBanner, .spaceBetween {
+    width: 100%;
     overflow: hidden;
 }
 
-.whiteBanner > * {
+.spaceBetween > * {
     float: left;
     width: 50%;
 
 }
 
+/* Articles */
+
+.divider {
+    width: 100%;
+}
+
+.divider > section {
+    float: left;
+    width: 50%;
+    height: 300px;
+}
+
+
+.divider > section > aside {
+    float: left;
+    width: 50%;
+    overflow: hidden;
+    height: 150px;
+}
+
+/* Adding Images */
+
+.mainArticle {
+    background-image: url(./images/Israel_UAE_cover.webp);
+    background-position: center center;
+    background-size: cover;
+
+    padding-top: 200px;
+    color: white;
+}
+
+
+.asideOne {
+    background-image: url(./images/America\,\ go\ home.webp);
+    background-position: center center;
+    background-size: cover;
+
+    padding-top: 100px;
+    color: white;
+}
+
+.asideTwo {
+    background-image: url(./images/vaccine.webp);
+    background-position: center center;
+    background-size: cover;
+
+    padding-top: 100px;
+    color: white;
+}
+
+.asideThree {
+    background-image: url(./images/productive.webp);
+    background-position: center center;
+    background-size: cover;
+
+    padding-top: 100px;
+    color: white;
+}
+
+.asideFour {
+    background-image: url(./images/folkSinger.webp);
+    background-position: center center;
+    background-size: cover;
+
+    padding-top: 100px;
+    color: white;
+}
+
+
+/* Sub-sections */
+
+
+.subSection > section {
+    float: left;
+    width: 33.33%;
+    height: 250px;
+}
+
+.subSection img {
+    height: 100%;
+    width: 100%;
+}
