@@ -22,12 +22,14 @@
 8. Flexbox in 20 minutes - Class 10
 9. Flexbox Zombies - Class 10
 ---
-### Due Class 12:
-
----
 ### Completed HW due Class 8!
 #### [Submit Link](https://docs.google.com/forms/d/e/1FAIpQLSckLQFQv7B0ToQ9S-fHIJUSA7KdfzpF62_kaJIcl1sfSb74vQ/viewform)
 #### Submitted 🟩👍04.07.2025
+---
+### Due Class 12:
+
+#### [Submit Link](https://docs.google.com/forms/d/e/1FAIpQLSdSxi0K6RNApPyDp3CUP0CVjcM8v89bw_wG9gCyFZiZfEvaJw/viewform?pli=1)
+#### Submitted 
 ---
 
 ### Class 8 Tasks:
@@ -66,8 +68,18 @@
 
 [codepen](https://codepen.io/IROMEO/full/LEVwYBv)
 
-![Tech Crunch Layout Attempt](./images/LevelGroundLayoutAttempt.png)
+![Level Ground Layout Attempt](./images/LevelGroundLayoutAttempt.png)
 ---
 ![Reference](./images/level-ground.png)
+
+---
+
+#### Source Layout: 
+
+[codepen]()
+
+![Source Layout Attempt]()
+---
+![Reference](./images/source.png)
 
 ---
