@@ -1,0 +1,85 @@
+/* Float Layout  */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+body {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Navigation */
+
+nav {
+    height: 60px;
+    background-color: #fff;
+    border-bottom: 2px solid grey;
+    padding: 5px;
+
+    overflow: hidden;
+    align-content: center;
+    margin: 0 auto;
+
+}
+
+.navbar, .nav-left, .navbar ul > *  {
+    float: left;
+    padding: 0 5px;
+}
+
+.nav-left {
+    margin-right: 50px;
+}
+
+.nav-right {
+    margin-left: 50px;
+}
+
+.nav-right {
+    float: right;
+    padding: 0 5px;
+}
+
+/* Main */
+
+.divider {
+    width: 100%;
+    height: 400px;
+}
+
+.divider section {
+    float: left;
+    width: 50%;
+    padding: 30px 50px;
+}
+
+.buttonList li a {
+    float: left;
+    padding: 0 10px
+}
+
+/* Article */
+
+
+article {
+    width: 100%;
+    margin: 0 auto;
+}
+article h1 {
+    text-align: center;
+    font-size: 48px;
+}
+
+/* Image */
+
+img {
+    width: 90%;
+}
+
+.logo {
+    width: 100px;
+}
