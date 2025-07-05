@@ -7,7 +7,7 @@
     - [Khan Academy](./images/KhanAcademyAttempt.png) 🟩👍V1 05.07.2025
     - [Tech Crunch](./images/TechCrunchLayoutAttempt.png)  🟩👍V1 05.07.2025
 2. [x]*Do the [Level Ground](./images/level-ground.png) & [Source](./images/source.png) layouts - Class 8
-    - [Level Ground]()
+    - [Level Ground](./images/LevelGroundLayoutAttempt.png) 🟩👍V1 05.07.2025
     - [Source]()
 3. [x]*Do the Restaurant & Hair Salon layouts - Class 10
     - [Restaurant]()
@@ -59,3 +59,15 @@
 ![Tech Crunch Layout Attempt](./images/TechCrunchLayoutAttempt.png)
 ---
 ![Reference](./images/techcrunch.png)
+
+---
+
+#### Level Ground Layout: 
+
+[codepen](https://codepen.io/IROMEO/full/LEVwYBv)
+
+![Tech Crunch Layout Attempt](./images/LevelGroundLayoutAttempt.png)
+---
+![Reference](./images/level-ground.png)
+
+---
