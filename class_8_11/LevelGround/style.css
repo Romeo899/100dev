@@ -1,0 +1,181 @@
+/* Float Layout */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+
+/* reusuable styles */
+
+.border {
+    border: 1px solid black;
+}
+
+.displayNone {
+    display: none;
+}
+
+.white {
+    color: #fff;
+}
+
+.darkGrey {
+    color: rgb(68, 75, 84);
+}
+/* general styles */
+
+body {
+    height: 100vh;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    color: #fff;
+}
+
+/* img  */
+
+img {
+    height: 100%;
+    
+}
+
+/* main */
+
+main {
+    background-color: rgb(102, 118, 138);
+    height: 80%;
+    margin: 0 auto;
+    text-align: center;
+
+
+
+    overflow: hidden;
+}
+
+main h1 {
+    padding: 50px 0;
+    color: #fff;
+}
+
+main p {
+    font-size: 32px;
+    color: #fff;
+}
+
+nav {
+    width: 800px;
+    height: 50px;
+    align-content: center;
+    margin: 20px auto 0 auto;
+
+
+    
+}
+
+.navLeft, ul li  {
+    float: left;
+    margin-right: 75px;
+}
+
+.navRight {
+    float: right;
+    margin-left: 75px;
+}
+
+/* articleTwo & Four */
+
+.articleTwo, .articleFour {
+
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: center;
+    align-content: center;
+}
+
+.articleTwo h3,.articleFour h3 {
+    font-size: 24px;
+}
+
+.articleTwo p, .articleFour p {
+    font-size: 18px;
+}
+
+/* articleThree */
+
+/* box */
+.articleThree {
+    background-color: rgb(219, 223, 226);
+    width: 100%;
+
+    padding: 20px;
+    padding-bottom: 60px;
+    overflow: hidden;
+}
+
+.articleThree section {
+    float: left;
+    width: 50%;
+    text-align: center;
+    align-content: center;
+    
+}
+
+.box {
+    background-color: rgb(102, 118, 138);
+    height: 50px;
+    width: 100px;
+
+    margin-left: 40%;
+    
+}
+
+
+/* footer */
+
+footer {
+    background-color: rgb(22, 31, 42);
+    height: 200px;
+    color: #fff;
+}
+
+.divider {
+    float: left;
+    width: 100%;
+}
+
+
+.divider aside{
+    width: 50%;
+
+}
+
+.floatLeft {
+    float: left;
+}
+
+.floatRight {
+    float: right;
+
+}
+
+.footerBottom {
+    float: left;
+    width: 100%;
+
+    border-top: 5px solid #fff;
+}
+
+/* img */
+
+img {
+    width: 75px;
+    height: 75px;
+}

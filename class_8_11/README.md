@@ -2,11 +2,11 @@
 ## Task List:
 ##### link: 
 ***Homework prefixed with an asterisk are mandatory. The rest are optional***
-1. [x]*Complete the 3 layouts we did in class (with CSS this time). [BBC](./images/bbc-image.png), [Khan Academy](./images/khan-academy.png), and [Tech Crunch](./) - Class 8
+1. [x]*Complete the 3 layouts we did in class (with CSS this time). [BBC](./images/bbc-image.png), [Khan Academy](./images/khan-academy.png), and [Tech Crunch](./images/techcrunch.png) - Class 8
     - [BBC Layout](./images/BBCLayoutAttempt.png) 🟩👍V1 04.07.2025
     - [Khan Academy](./images/KhanAcademyAttempt.png) 🟩👍V1 05.07.2025
-    - [Tech Crunch](./images/techcrunch.png)  🟩👍V1 05.07.2025
-2. [x]*Do the Level Ground & Source layouts - Class 8
+    - [Tech Crunch](./images/TechCrunchLayoutAttempt.png)  🟩👍V1 05.07.2025
+2. [x]*Do the [Level Ground](./images/level-ground.png) & [Source](./images/source.png) layouts - Class 8
     - [Level Ground]()
     - [Source]()
 3. [x]*Do the Restaurant & Hair Salon layouts - Class 10
