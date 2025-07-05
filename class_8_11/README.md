@@ -39,8 +39,8 @@
 ---
 #### Khan Academy Layout: 
 
-[codepen]()
+[codepen](https://codepen.io/IROMEO/full/qEdeWEr)
 
-![Khan Academy Layout Attempt]()
+![Khan Academy Layout Attempt](./images/KhanAcademyAttempt.png)
 
-![Reference]()
+![Reference](./images/khan-academy.png)
