@@ -49,8 +49,8 @@
 
 #### Tech Crunch Layout: 
 
-[codepen]()
+[codepen](https://codepen.io/IROMEO/full/GgJVKyw)
 
-![Tech Crunch Layout Attempt]()
+![Tech Crunch Layout Attempt](./images/TechCrunchLayoutAttempt.png)
 ---
 ![Reference](./images/techcrunch.png)
