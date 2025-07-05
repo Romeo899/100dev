@@ -4,6 +4,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    list-style: none;
 }
 
 /* border */
@@ -22,7 +23,12 @@
 /* General Styles */
 
 body {
-    height: 100%;
+    height: 100vh;
+}
+
+main, article {
+    margin-left: 15%;
+
 }
 
 /* Container Styles */
@@ -41,11 +47,27 @@ nav {
 
 }
 
+nav ul {
+    padding: 3em 0;
+}
+
+nav ul li {
+    padding: 0.25em 0;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: grey;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+
 /* main */
 
 main {
     height: 320px;
-    margin-left: 15%;
 }
 
 main section {
@@ -56,13 +78,50 @@ main section {
 
 }
 
+.mainHero {
+    height: 100%;
+    overflow: hidden;
+}
+
+.mainHero > *, .mainHero img {
+    float: left;
+    width: 100%;
+}
+
+.mainHero img {
+    height: 80%;
+
+}
+
 aside {
     float: left;
     width: 100%;
     height: 80px;
 }
 
+/* side Section */
+
+.sideSection {
+
+}
+
 /* article */
 
+article {
+    height: 25%;
+}
 
+article section {
+    overflow: hidden;
+}
 
+article section > * {
+    float: left;
+    width: 33.33%;
+}
+
+/* Logo */
+
+.logo {
+    width: 100%;
+}
