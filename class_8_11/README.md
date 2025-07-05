@@ -32,9 +32,11 @@
 [codepen](https://codepen.io/IROMEO/full/GgJbbXo)
 
 ![BBC Layout Attempt](./images/BBCLayoutAttempt.png)
-
+---
 ![Reference](./images/bbc-image.png)
 
+
+---
 #### Khan Academy Layout: 
 
 [codepen]()
