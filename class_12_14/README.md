@@ -2,7 +2,7 @@
 ## Task List: Learn JavaScript
 ##### link: 
 ***Homework prefixed with an asterisk are mandatory. The rest are optional***
-1. [x]*Read Javascript.info: Variables and do the tasks - Class 12
+1. [x]*Read [Javascript.info: Variables and do the tasks](https://javascript.info/variables) - Class 12 🟩👍06.07.2025
 2. [x]*Read Javascript.info: Function Basics and do the tasks - Class 12
 3. [x]*Read Javascript.info: Function Expressions and do the tasks - Class 13
 4. [x]*Read Javascript.info: Arrow Function Basics and do the tasks - Class 13
