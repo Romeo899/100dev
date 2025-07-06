@@ -29,7 +29,7 @@
 ### Due Class 12:
 
 #### [Submit Link](https://docs.google.com/forms/d/e/1FAIpQLSdSxi0K6RNApPyDp3CUP0CVjcM8v89bw_wG9gCyFZiZfEvaJw/viewform?pli=1)
-#### Submitted 
+#### Submitted 🟩👍06.07.2025
 ---
 
 ### Class 8 Tasks:
