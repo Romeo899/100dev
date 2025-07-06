@@ -1,0 +1,40 @@
+/* Floats Layout */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     
+    list-style: none;
+}
+
+/* navigation */
+
+nav {
+    height: 50px;
+    align-content: center;
+    border-bottom: 1px solid black;
+
+
+
+}
+
+nav ul li {
+    float: left;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.floatRight {
+    float: right;
+}
+
+.floatCenter {
+    float: left;
+    position: relative;
+    top: 0px;
+    left: 28%;
+    padding: 0 10px 0 10px;
+}
