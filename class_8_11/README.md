@@ -8,7 +8,7 @@
     - [Tech Crunch](./images/TechCrunchLayoutAttempt.png)  🟩👍V1 05.07.2025
 2. [x]*Do the [Level Ground](./images/level-ground.png) & [Source](./images/source.png) layouts - Class 8
     - [Level Ground](./images/LevelGroundLayoutAttempt.png) 🟩👍V1 05.07.2025
-    - [Source]()
+    - [Source](./images/SourceLayoutAttempt.png) 🟩👍V1 05.07.2025
 3. [x]*Do the Restaurant & Hair Salon layouts - Class 10
     - [Restaurant]()
     - [Hair Salon]()
@@ -76,9 +76,9 @@
 
 #### Source Layout: 
 
-[codepen]()
+[codepen](https://codepen.io/IROMEO/full/emNqpMM)
 
-![Source Layout Attempt]()
+![Source Layout Attempt](./images/SourceLayoutAttempt.png)
 ---
 ![Reference](./images/source.png)
 
