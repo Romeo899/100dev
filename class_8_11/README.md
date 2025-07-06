@@ -11,7 +11,7 @@
     - [Source](./images/SourceLayoutAttempt.png) 🟩👍V1 05.07.2025
 3. [x]*Do the [Restaurant](./images/restaurant.png) & [Hair Salon](./images/hair-salon.png)layouts - Class 10
     - [Restaurant](./images/restaurantLayoutAttempt.png)🟩👍V1 06.07.2025
-    - [Hair Salon]()
+    - [Hair Salon](./images/hairSalonLayoutAttempt1.png) 🟩👍V1 06.07.2025
 4. [x]Watch [Javascript crash course for beginners](https://youtu.be/hdI2bqOjy3c) - Class 10
 
 ### Extras: 
@@ -96,9 +96,10 @@
 
 #### Hair Salon Layout: 
 
-[codepen]()
+[codepen](https://codepen.io/IROMEO/full/gbpVWLj)
 
-![Hair Salon layout Attempt]()
+![Hair Salon layout Attempt](./images/hairSalonLayoutAttempt1.png)
+![Hair Salon layout Attempt](./images/hairSalonLayoutAttempt2.png)
 ---
 ![Reference](./images/hair-salon.png)
 
