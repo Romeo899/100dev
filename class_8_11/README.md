@@ -10,7 +10,7 @@
     - [Level Ground](./images/LevelGroundLayoutAttempt.png) 🟩👍V1 05.07.2025
     - [Source](./images/SourceLayoutAttempt.png) 🟩👍V1 05.07.2025
 3. [x]*Do the [Restaurant](./images/restaurant.png) & [Hair Salon](./images/hair-salon.png)layouts - Class 10
-    - [Restaurant]()
+    - [Restaurant](./images/restaurantLayoutAttempt.png)🟩👍V1 06.07.2025
     - [Hair Salon]()
 4. [x]Watch [Javascript crash course for beginners](https://youtu.be/hdI2bqOjy3c) - Class 10
 
@@ -86,9 +86,9 @@
 
 #### Restaurant Layout: 
 
-[codepen]()
+[codepen](https://codepen.io/IROMEO/full/qEderOe)
 
-![Restaurant layout Attempt]()
+![Restaurant layout Attempt](./images/restaurantLayoutAttempt.png)
 ---
 ![Reference](./images/restaurant.png)
 
