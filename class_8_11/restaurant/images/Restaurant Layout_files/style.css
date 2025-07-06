@@ -23,12 +23,6 @@ button.black {
     color: #000;
 }
 
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
 /* main styles */
 
 main {
@@ -126,38 +120,6 @@ main nav ul {
 .positionCenter {
     position: relative;
     top: 150px;
-    left: 25%;
+    left: 50%;
     width: 400px;
-    text-align: center
-}
-
-/* image properties */
-
-img{
-    width: 25%;
-    height: 100%;
-}
-
-.imageCollection {
-    position: absolute;
-    top: 150px;
-    left: -150px;
-    width: 200%;
-    overflow: auto;
-}
-
-.imageCollection img {
-    float: left;
-    padding: 0 15px 0 15px;
-}
-
-/* opening hours */
-
-.hours {
-    position: absolute;
-    top: 150px;
-    left: -256px;
-
-    color: #fff;
-    font-size: 24px;
 }
