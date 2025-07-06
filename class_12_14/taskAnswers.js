@@ -35,5 +35,8 @@ importance: 3
 
 // Solution
 
-let ourPlanet = "Earth";
-let currVisitor = "Bob";
+// let ourPlanet = "Earth";
+// let currVisitor = "Bob";
+
+
+// 3
