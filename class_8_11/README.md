@@ -9,10 +9,10 @@
 2. [x]*Do the [Level Ground](./images/level-ground.png) & [Source](./images/source.png) layouts - Class 8
     - [Level Ground](./images/LevelGroundLayoutAttempt.png) 🟩👍V1 05.07.2025
     - [Source](./images/SourceLayoutAttempt.png) 🟩👍V1 05.07.2025
-3. [x]*Do the Restaurant & Hair Salon layouts - Class 10
+3. [x]*Do the [Restaurant](./images/restaurant.png) & [Hair Salon](./images/hair-salon.png)layouts - Class 10
     - [Restaurant]()
     - [Hair Salon]()
-4. [x]Watch Javascript crash course for beginners - Class 10
+4. [x]Watch [Javascript crash course for beginners](https://youtu.be/hdI2bqOjy3c) - Class 10
 
 ### Extras: 
 5. Complete Pushwork layout (Can optionally submit this) - Class 8
@@ -81,5 +81,25 @@
 ![Source Layout Attempt](./images/SourceLayoutAttempt.png)
 ---
 ![Reference](./images/source.png)
+
+---
+
+#### Restaurant Layout: 
+
+[codepen]()
+
+![Restaurant layout Attempt]()
+---
+![Reference](./images/restaurant.png)
+
+---
+
+#### Hair Salon Layout: 
+
+[codepen]()
+
+![Hair Salon layout Attempt]()
+---
+![Reference](./images/hair-salon.png)
 
 ---
