@@ -9,6 +9,9 @@
 3. [x]*Read Javascript.info: Function Expressions and do the tasks - Class 13
 4. [x]*Read Javascript.info: Arrow Function Basics and do the tasks - Class 13
 
+* Create a separate .md file to track javaScript.info progress
+
+
 5. [x] Delete the JS and do it again for all assignments in class (picker, calculator, angry parent, etc). If you make any changes, you can submit them here. - Class 12
 6. [x] Plan out your networking! - Class 12
 7. [x] Do something special for yourself :) -  Class 12
