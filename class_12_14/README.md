@@ -4,14 +4,10 @@
 ***Homework prefixed with an asterisk are mandatory. The rest are optional***
 1. [x]*Read [Javascript.info: Variables and do the tasks](https://javascript.info/variables) - Class 12 🟩👍06.07.2025
     1. [solutions](https://github.com/Romeo899/100dev/blob/master/class_12_14/taskAnswers.js) 
-2. [x]*Read [Javascript.info: Function Basics and do the tasks](https://javascript.info/function-basics) - Class 12
+2. [x]*Read [Javascript.info: Function Basics and do the tasks](https://javascript.info/function-basics) - Class 12 🟩👍
     1. [solutions]()
-3. [x]*Read Javascript.info: Function Expressions and do the tasks - Class 13
-4. [x]*Read Javascript.info: Arrow Function Basics and do the tasks - Class 13
-
-* Create a separate .md file to track javaScript.info progress
-
-
+3. [x]*Read Javascript.info: Function Expressions and do the tasks - Class 13 🟩👍
+4. [x]*Read Javascript.info: Arrow Function Basics and do the tasks - Class 13 🟩👍
 5. [x] Delete the JS and do it again for all assignments in class (picker, calculator, angry parent, etc). If you make any changes, you can submit them here. - Class 12
 6. [x] Plan out your networking! - Class 12
 7. [x] Do something special for yourself :) -  Class 12
@@ -26,3 +22,10 @@
 
 ---
 ### Due Class 15:
+
+#### [Submit Link](https://forms.gle/i4skrmpk1HiXXg6ZA)
+#### Submitted 
+
+
+* before you submit recover deleted file taskAnswers.js 
+https://www.git-tower.com/learn/git/faq/restoring-deleted-files
