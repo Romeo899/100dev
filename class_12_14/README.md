@@ -28,5 +28,4 @@
 #### Submitted 🟩👍15.07.2025
 
 
-* before you submit recover deleted file taskAnswers.js 
-https://www.git-tower.com/learn/git/faq/restoring-deleted-files
+## Going through Class 14 again at 1:40:34 temperature converter exercise.
