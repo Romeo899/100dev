@@ -16,7 +16,7 @@
 6. [x] Plan out your networking! - Class 12
 7. [x] Do something special for yourself :) -  Class 12
 8. [x] NETWORK! - Class 13
-9. [x] Read The JS Way: Loops - Class 13
+9. [x] Read The [JS Way: Loops](https://github.com/thejsway/thejsway?tab=readme-ov-file) - Class 13
 
 ---
 ### Completed HW due Class 12!:
