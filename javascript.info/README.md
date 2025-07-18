@@ -53,7 +53,7 @@ Track your progress through [javascript.info](https://javascript.info/) tutorial
 
 ### Document
 - [ ] 1.1 Browser environment, specs — _Last Reviewed: yyyy-mm-dd_
-- [!1] 1.2 DOM tree — _Last Reviewed: 18.07.2025_
+- [x] 1.2 DOM tree — _Last Reviewed: 18.07.2025_git
 - [ ] 1.3 Walking the DOM — _Last Reviewed: yyyy-mm-dd_
 - [!2] 1.4 Searching: getElement*, querySelector* — _Last Reviewed: yyyy-mm-dd_
 - [ ] 1.5 Node properties: type, tag and contents — _Last Reviewed: yyyy-mm-dd_
