@@ -52,10 +52,10 @@ Track your progress through [javascript.info](https://javascript.info/) tutorial
 ## Part 2: Browser: Document, Events, Interfaces
 
 ### Document
-- [ ] 1.1 Browser environment, specs — _Last Reviewed: yyyy-mm-dd_
+- [x] 1.1 Browser environment, specs — _Last Reviewed: 19.07.2025_
 - [x] 1.2 DOM tree — _Last Reviewed: 18.07.2025_git
 - [ ] 1.3 Walking the DOM — _Last Reviewed: yyyy-mm-dd_
-- [!2] 1.4 Searching: getElement*, querySelector* — _Last Reviewed: yyyy-mm-dd_
+- [x!] 1.4 Searching: getElement*, querySelector* — _Last Reviewed: yyyy-mm-dd_
 - [ ] 1.5 Node properties: type, tag and contents — _Last Reviewed: yyyy-mm-dd_
 - [ ] 1.6 Attributes and properties — _Last Reviewed: yyyy-mm-dd_
 - [!3] 1.7 Modifying the document — _Last Reviewed: yyyy-mm-dd_
